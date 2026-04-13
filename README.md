@@ -11,6 +11,10 @@ You can edit it how ever you want!
 
 The list of packages is:
 
+
+`brave-bin`
+
+
 `feh` 
 
 
