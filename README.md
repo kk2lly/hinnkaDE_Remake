@@ -7,8 +7,9 @@ You can edit it how ever you want!
 
 ---------
 
-Packages:
+# Packages
 
+The list of packages is:
 
 `feh` 
 
@@ -32,5 +33,7 @@ Packages:
 
 
 `vlc`
+
+# Start install
 
 To install it, Get shell file on release
