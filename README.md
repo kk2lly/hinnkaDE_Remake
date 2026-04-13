@@ -12,31 +12,8 @@ You can edit it how ever you want!
 The list of packages is:
 
 
-`brave-bin`
+`brave-bin` / `feh` / `flatpak` / `fastfetch` / `flameshot` / `lxpanel` / `openbox` / `polybar` / `vlc`
 
-
-`feh` 
-
-
-`flatpak`
-
-
-`fastfetch` 
-
-
-`flameshot`
-
-
-`lxpanel` 
-
-
-`openbox` 
-
-
-`polybar` 
-
-
-`vlc`
 
 # Start install
 
