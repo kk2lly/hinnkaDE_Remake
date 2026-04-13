@@ -14,6 +14,8 @@ The list of packages is:
 
 `brave-bin` / `feh` / `flatpak` / `fastfetch` / `flameshot` / `lxpanel` / `openbox` / `polybar` / `vlc`
 
+---------
+
 
 # Start install
 
