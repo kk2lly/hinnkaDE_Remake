@@ -12,7 +12,7 @@ You can edit it how ever you want!
 The list of packages is:
 
 
-`brave-bin` / `feh` / `flatpak` / `fastfetch` / `flameshot` / `lxpanel` / `openbox` / `polybar` / `vlc`
+`brave-bin` / `feh` / `flatpak` / `fastfetch` / `flameshot` / `lxpanel` / `openbox` / `polybar` / `vlc` / `yay`
 
 ---------
 
