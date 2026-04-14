@@ -1,7 +1,8 @@
-#!/usr/local/bin/hinnkaDERemake xdg-open
+#!/usr/local/bin/hinnkaDE xdg-open
 [Desktop Entry]
 Name=hinnkaDE Remake
-Exec=/usr/local/bin/hinnkaDERemake/hinnkaDE.sh
-TryExec=/usr/local/bin/hinnkaDERemake/hinnkaDE.sh
+Comment=Log in using the hinnkaDE
+Exec=/usr/local/bin/hinnkaDE/hinnkaDE.sh
+TryExec=/usr/local/bin/hinnkaDE/hinnkaDE.sh
 Icon=openbox
-Type=Application
+Type=Application   
